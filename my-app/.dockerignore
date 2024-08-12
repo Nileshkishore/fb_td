@@ -1,0 +1,12 @@
+# Node modules and build artifacts
+node_modules
+.next
+
+# Git-related files
+.git
+
+# Markdown files
+*.md
+
+# Environment files
+.env*
